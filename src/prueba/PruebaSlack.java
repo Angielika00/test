@@ -55,6 +55,10 @@ public class PruebaSlack {
         System.out.println(mensajes);  // esto fue lo que agregue para verrificar el commit
     }
     
+    public mensajesImportantes (String msj) {
+        System.out.println(msj);  // esto fue lo que agregue para verrificar el commit
+    }
+    
     
     
     
