@@ -51,6 +51,9 @@ public class PruebaSlack {
         this.mensajes = mensajes;
     }
     
+    public imprimir (String mensajes) {
+        System.out.println(mensajes);  // esto fue lo que agregue para verrificar el commit
+    }
     
     
     
